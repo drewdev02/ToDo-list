@@ -1,2 +1,5 @@
-package com.example.todolist.Entity;public class Priority {
+package com.example.todolist.Entity;
+
+public enum Priority {
+    HIGH, MEDIUM, LOW
 }
